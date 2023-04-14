@@ -1,2 +1,3 @@
-# Tip-calculator
-Designed a small frontend website to suggest tip amount by considering factors like total bill, No of persons, overall experience.
+# Tip Calculator
+
+Tip Calculator created using JavaScript, HTML5 ,and CSS3 to help determine how much to tip at restaurants or whenever the need arises.
